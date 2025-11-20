@@ -106,8 +106,4 @@ MySQL Functions • Business Analytics • Reporting Automation • Data Warehou
 3. Add **RFM scoring (Recency, Frequency, Monetary)** for deeper segmentation.
 4. Combine with `products_report` for joint product–customer profitability analysis.
 5. Extend model to calculate **Customer Lifetime Value (LTV)** and churn probability.
-
 ---
-
-
-Just tell me!
